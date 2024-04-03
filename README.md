@@ -1,4 +1,5 @@
 API que consulta, adiciona, edita e deleta livros usando python com framework web flask.
+
 Endpoints: 
 - localhost/livros (GET) / Obter todos os livros
 - localhost/livros (POST) / Criar novos livros
